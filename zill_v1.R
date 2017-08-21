@@ -1,4 +1,4 @@
-path <- "/home/manish/Desktop/Data2017/July/Zillow/"
+path <- "path"
 setwd(path)
 
 # load data
